@@ -1,0 +1,22 @@
+.red{
+    color: red;
+}
+footer{
+    text-align: center; 
+    color:saddlebrown;
+}
+body{
+    background-color:antiquewhite
+}
+strong{
+    font-family:monospace;
+    color:saddlebrown;
+    font-size:20px;
+}
+h1, h2{
+    color: saddlebrown;
+    font-family: 'Times New Roman', Times, serif;
+}
+span{
+    color: blue;
+}
